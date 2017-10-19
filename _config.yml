@@ -9,13 +9,13 @@ minimal_mistakes_skin    : "mint" # "air", "contrast", "dark", "dirt", "mint", "
 
 # Site Settings
 locale                   : "en"
-title                    : "GitHub Blog"
+title                    : "June | GitHub Blog"
 title_separator          : "-"
 name                     : "Ching June Tao"
 description              : "An amazing website by Jekyll"
-url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : "https://chingjunetao.github.io/" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
-repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
+repository               : "chingjunetao/chingjunetao.github.io" # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
 # breadcrumbs            : false # true, false (default)
 words_per_minute         : 200
@@ -73,6 +73,7 @@ social:
   type                   : # Person or Organization (defaults to Person)
   name                   : # If the user or organization name differs from the site's name
   links: # An array of links to social media profiles
+   - "https://www.linkedin.com/in/chingjunetao"
 
 # Analytics
 analytics:
@@ -84,10 +85,10 @@ analytics:
 # Site Author
 author:
   name             : "Ching June Tao"
-  avatar           : /assets/images/bio-photo.jpg # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  avatar           : "/assets/images/bio-photo.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "A programmer who like chocolate more than coffee. "
   location         : "Singapore"
-  email            :
+  email            : "chingjunetao@gmail.com"
   uri              :
   bitbucket        :
   codepen          :
@@ -95,7 +96,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : chingjunetao
+  github           : "chingjunetao"
   gitlab           :
   google_plus      :
   keybase          :
@@ -247,7 +248,7 @@ defaults:
     values:
       layout: single
       author_profile: true
-      read_time: true
+      read_time: false
       comments: # true
       share: true
       related: true
