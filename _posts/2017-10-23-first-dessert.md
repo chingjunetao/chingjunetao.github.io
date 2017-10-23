@@ -1,7 +1,7 @@
 ---
 title: "First Blogging with Jekyll"
 categories:
-  - Food
+  - food
 tags:
   - chat
   - Post Formats
