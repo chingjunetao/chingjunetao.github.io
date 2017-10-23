@@ -5,8 +5,10 @@ main:
   - title: "About"
     url: /about/
   - title: "Learning"
-    url: https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/
+    url: /categories/
   - title: "Food"
-    url: https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/
+    url: /Food/
+  - title: "Travel"
+    url: /Learning/
   # - title: "Sitemap"
   #   url: /sitemap/
