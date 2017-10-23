@@ -85,8 +85,8 @@ analytics:
 # Site Author
 author:
   name             : "Ching June Tao"
-  avatar           : "/assets/images/bio-photo.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "A programmer who like chocolate more than coffee. "
+  avatar           : "/assets/images/home/bio-photo.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  bio              : "A Mathematician, Game Designer, Software Developer and future Pirate King. "
   location         : "Singapore"
   email            : "chingjunetao@gmail.com"
   uri              :
