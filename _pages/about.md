@@ -10,7 +10,7 @@ header:
   caption: "Photo credit: [**Unsplash**](https://unsplash.com)"
 excerpt: "<br />Work Hard <br />Dream Big <br />Make It Happen"
 intro: 
-  - excerpt: 'I am an Applied Mathematics graduate from Malaysia and currently working in Singapore. I am passionate about learning new things especially lastest tech and data science related stuff. I like to automate my work by using programming because I do not like tedious and repeated work. '
+  - excerpt: 'I am an Applied Mathematics graduate from Malaysia and currently working in Singapore. I am passionate about learning new things especially lastest tech and data science related stuff.'
 
 feature_row2:
   - image_path: /assets/images/unsplash-gallery-image-2-th.jpg
