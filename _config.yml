@@ -246,7 +246,7 @@ defaults:
       path: ""
       type: posts
     values:
-      layout: single
+      layout: default
       author_profile: false
       read_time: false
       comments: true
