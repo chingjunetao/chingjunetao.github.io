@@ -1,5 +1,5 @@
 ---
-title: "First Blogging with Jekyll"
+title: "First Travel"
 categories:
   - learning
   - food
