@@ -1,5 +1,7 @@
 ---
 title: "First Blogging with Jekyll"
+header:
+	teaser: "/assets/images/post/2017-10-23-first-blogging/jekyll.jpg"
 categories:
   - learning
 tags:
