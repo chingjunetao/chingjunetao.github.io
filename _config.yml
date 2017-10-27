@@ -16,7 +16,7 @@ description              : "An amazing website by Jekyll"
 url                      : "https://chingjunetao.github.io/" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : "chingjunetao/chingjunetao.github.io" # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
-teaser                   : "/assets/images/post/2017-10-23-first-blogging/jekyll.jpg" # path of fallback teaser image, e.g. "/assets/images/500x300.png"
+teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
 # breadcrumbs            : false # true, false (default)
 words_per_minute         : 200
 comments:
@@ -47,8 +47,8 @@ staticman:
       options:
         format           : # "iso8601" (default), "timestamp-seconds", "timestamp-milliseconds"
 reCaptcha:
-  siteKey                : "6LdE8DUUAAAAADXjv18Wwf-XY5vzMMCHP42xPatW"
-  secret                 : "6LdE8DUUAAAAANFhUMwYiQ5LzCZ6RIRD-jdBFYdS"
+  siteKey                : #"6LdE8DUUAAAAADXjv18Wwf-XY5vzMMCHP42xPatW"
+  secret                 : #"6LdE8DUUAAAAANFhUMwYiQ5LzCZ6RIRD-jdBFYdS"
 atom_feed:
   path                   : # blank (default) uses feed.xml
 
