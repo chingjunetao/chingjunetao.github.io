@@ -10,7 +10,7 @@ header:
   caption: "Photo credit: [**Unsplash**](https://unsplash.com)"
 excerpt: "<br />Work Hard <br />Dream Big <br />Make It Happen"
 intro: 
-  - excerpt: 'The only way to do great work is to love what you do. If you haven't found it yet, keep looking. Don't settle. '
+  - excerpt: "The only way to do great work is to love what you do. If you haven't found it yet, keep looking. Don't settle. "
 
 feature_row2:
   - image_path: /assets/images/unsplash-gallery-image-2-th.jpg
