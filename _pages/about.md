@@ -22,7 +22,8 @@ feature_row3:
   - image_path: /assets/images/aboutPage/bookmark.jpg
     alt: "placeholder image 2"
     title: "Recent Interest"
-    excerpt: "- [Blogging with Jekyll](https://chingjunetao.github.io//learning/first-blogging/) - [Machine Learning in Python](http://scikit-learn.org/stable/)"
+    excerpt: "- [Blogging with Jekyll](https://chingjunetao.github.io//learning/first-blogging/) 
+    - [Machine Learning in Python](http://scikit-learn.org/stable/)"
 
 feature_row4:
   - image_path: /assets/images/aboutPage/coffee.jpg
