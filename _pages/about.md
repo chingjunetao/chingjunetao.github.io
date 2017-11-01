@@ -22,13 +22,13 @@ feature_row3:
   - image_path: /assets/images/aboutPage/bookmark.jpg
     alt: "placeholder image 2"
     title: "Recent Interest"
-    excerpt: "* [Blogging with Jekyll](https://chingjunetao.github.io//learning/first-blogging/) <br />* [Machine Learning in Python](http://scikit-learn.org/stable/)  <br />* Water Colour Painting <br />* UX Design"
+    excerpt: ":small_blue_diamond: [Blogging with Jekyll](https://chingjunetao.github.io//learning/first-blogging/) <br />:small_blue_diamond: [Machine Learning in Python](http://scikit-learn.org/stable/)  <br />:small_blue_diamond: Water Colour Painting <br />:small_blue_diamond: UX Design"
 
 feature_row4:
   - image_path: /assets/images/aboutPage/coffee.jpg
     alt: "placeholder image 3"
     title: "Favourite"
-    excerpt: " :movie_camera: <br />:books: <br />:musical_note: "
+    excerpt: " :movie_camera: Marvel and Sherlock <br />:books: Astronomy and Science <br />:musical_note: Lala Hsu, A-lin etc"
 
 ---
 
