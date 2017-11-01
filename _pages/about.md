@@ -16,7 +16,7 @@ feature_row2:
   - image_path: /assets/images/aboutPage/library.jpg
     alt: "placeholder image 1"
     title: "About Me"
-    excerpt: "I am an Applied Mathematics graduate from Malaysia and currently working in Singapore. I am passionate about learning new things especially lastest tech and data science related stuff. <br /><br />I started this blog mainly for my own collection, but it would be even greater if I can encourage people to learn together with me. "
+    excerpt: "I am an Applied Mathematics graduate from Malaysia and currently working in Singapore. I am passionate about learning new things especially lastest tech and data science related stuff :grin: <br /><br />I started this blog mainly for my own collection, but it would be even greater if I can encourage people to learn together with me :ghost: "
 
 feature_row3:
   - image_path: /assets/images/aboutPage/bookmark.jpg
@@ -28,7 +28,7 @@ feature_row4:
   - image_path: /assets/images/aboutPage/coffee.jpg
     alt: "placeholder image 3"
     title: "Favourite"
-    excerpt: " :movie_camera: Marvel and Sherlock <br />:books: Astronomy and Science <br />:musical_note: Lala Hsu, A-lin etc"
+    excerpt: " :movie_camera: Marvel, Sherlock, Sci-fiction and Comedy <br />:books: Astronomy, Science and Psychology<br />:fork_and_knife: Chocolate, ice-cream and dessert <br />:musical_note: Charlie Puth, Lala and A-lin"
 
 ---
 
