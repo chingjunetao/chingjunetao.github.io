@@ -22,7 +22,8 @@ feature_row3:
   - image_path: /assets/images/aboutPage/bookmark.jpg
     alt: "placeholder image 2"
     title: "Recent Interest"
-    excerpt: "- [Blogging with Jekyll](https://chingjunetao.github.io//learning/first-blogging/) <br />- [Machine Learning in Python](http://scikit-learn.org/stable/) <br />- Water Colour Painting <br />- UX Design"
+    excerpt: "- [Blogging with Jekyll](https://chingjunetao.github.io//learning/first-blogging/)" 
+    excerpt: "- [Machine Learning in Python](http://scikit-learn.org/stable/)"
 
 feature_row4:
   - image_path: /assets/images/aboutPage/coffee.jpg
@@ -40,4 +41,4 @@ feature_row4:
 
 {% include feature_row id="feature_row3" type="left" %}
 
-{% include feature_row id="feature_row4" type="center" %}
+{% include feature_row id="feature_row4" type="left" %}
