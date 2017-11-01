@@ -28,7 +28,7 @@ feature_row4:
   - image_path: /assets/images/aboutPage/coffee.jpg
     alt: "placeholder image 3"
     title: "Favourite"
-    excerpt: " :movie_camera: Marvel, Sherlock, Sci-fiction and Comedy <br />:books: Astronomy, Science and Psychology<br />:fork_and_knife: Chocolate, ice-cream and dessert <br />:musical_note: Charlie Puth, Lala and A-lin"
+    excerpt: " :movie_camera: Marvel and Sherlock <br />:books: Science and Psychology<br />:fork_and_knife: Chocolate and Ice-cream <br />:musical_note: Charlie Puth and Lala Hsu"
 
 ---
 
