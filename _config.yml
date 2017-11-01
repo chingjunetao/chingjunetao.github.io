@@ -26,8 +26,8 @@ comments:
   discourse:
     server               : # https://meta.discourse.org/t/embedding-discourse-comments-via-javascript/31963 , e.g.: meta.discourse.org
   facebook:
-    https://developers.facebook.com/docs/plugins/comments
-    appid                :
+    # https://developers.facebook.com/docs/plugins/comments
+    appid                : 184818798744210
     num_posts            : 10 #(default)
     colorscheme          : light # "light" (default), "dark"
 staticman:
