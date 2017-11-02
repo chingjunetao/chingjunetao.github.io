@@ -18,6 +18,6 @@ Jekyll also provides tons of themes for you to customize your personal blog. I h
 
 From now on I will try my best to summarise and blog my learning so that we can learn from each other. I will also review some food (mostly chocolate and dessert) on my blog. Do give me some feedback or correct me if I have made a mistake on my content or grammar. 
 
-Have a nice day! Cheer! 
+Have a nice day! Cheer! :kissing_smiling_eyes: (Oh ya the best thing is [emoji](https://www.webpagefx.com/tools/emoji-cheat-sheet/) is supported here! Who doesn't like emoji? :ghost: )
 
 
