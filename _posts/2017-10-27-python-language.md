@@ -1,5 +1,5 @@
 ---
-title: "How to Enhance your Python Programming Skill"
+title: "How to Enhance your Python Programming Skill "
 categories:
   - learning
 tags:
@@ -16,7 +16,6 @@ Today I am going to share my favourite resources that I used to learn Python.
 In this book, you can learn the fundamental of programming such as data structure, string manipulation and debugging. As what the book named, you will also learn how to use Python to write programming that dop in minutes what would take you hours to do by hand-no priior programming experience required. 
 
 I learned how to manipulate my excel spreadsheet and file manipulation in this book. 
-
 
 2. [Python Data Science Handbook](https://jakevdp.github.io/PythonDataScienceHandbook/)
 
