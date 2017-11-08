@@ -10,6 +10,11 @@
     {% when "facebook" %}
       <h4 class="page__comments-title">{{ comments_label }}</h4>
       <meta property="fb:app_id" content="184818798744210" />
+      <meta property="og:url" content="URL" />
+      <meta property="og:title" content="GitHub Page" />
+      <meta property="og:type" content="Website" />
+      <meta property="og:description" content="Pirate King Blog" />
+      <meta property="og:image" content="IMG" />
       <section class="fb-comments" data-href="{{ page.url | absolute_url }}" data-mobile="true" data-num-posts="{{ site.comments.facebook.num_posts | default: 5 }}" data-width="100%" data-colorscheme="{{ site.comments.facebook.colorscheme | default: 'light' }}"></section>
     {% when "google-plus" %}
       <h4 class="page__comments-title">{{ comments_label }}</h4>
