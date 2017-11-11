@@ -9,7 +9,7 @@
       <section id="disqus_thread"></section>
     {% when "facebook" %}
       <h4 class="page__comments-title">{{ comments_label }}</h4>
-      <section class="fb-comments" data-href="{{ page.url | absolute_url }}" data-numposts="10"></section>
+      <section class="fb-comments" data-href="{{ page.url | absolute_url }}" data-width="100%" data-numposts="10"></section>
     {% when "google-plus" %}
       <h4 class="page__comments-title">{{ comments_label }}</h4>
       <section id="g-comments" class="g-comments">Loading Google+ Comments ...</section>
