@@ -14,7 +14,7 @@ tags:
 Their best-selling mille crepe cake is still top draw at the Singapore outlet. But as a chocoholic, chocolate cake is always the first thing I try in a cafe :yum::yum:
 
 <figure>
-  <a href="/assets/images/post/2017-11-12-lady-m-cake/chocolate.jpg"><img src="/assets/images/post/2017-11-12-lady-m-cake/chocolate.jpg"></a>
+  <a href="/assets/images/post/2017-11-12-lady-m-cake/ChocolateCake.jpg"><img src="/assets/images/post/2017-11-12-lady-m-cake/ChocolateCake.jpg"></a>
   <figcaption>Gateau Au Chocolat </figcaption>
 </figure>
 
@@ -26,7 +26,7 @@ Gateau Au Chocolat has a good chocolate flavour and it is not that sweet because
 
 
 {% capture fig_img2 %}
-![jekyll image]({{ site.url }}{{ site.baseurl }}/assets/images/post/2017-10-23-first-blogging/jekyll.jpg)
+![signature milli crepe]({{ site.url }}{{ site.baseurl }}/2017-11-12-lady-m-cake/SignatureCake.jpg)
 {% endcapture %}
 
 <figure>
