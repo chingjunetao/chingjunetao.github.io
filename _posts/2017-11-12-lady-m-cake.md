@@ -14,7 +14,7 @@ tags:
 Their best-selling mille crepe cake is still top draw at the Singapore outlet. But as a chocoholic, chocolate cake is always the first thing I try in a cafe :yum::yum:
 
 <figure>
-  <img src="/assets/images/post/2017-11-12-lady-m-cake/chocolate.jpg">
+  <a href="/assets/images/post/2017-11-12-lady-m-cake/chocolate.jpg"><img src="/assets/images/post/2017-11-12-lady-m-cake/chocolate.jpg"></a>
   <figcaption>Gateau Au Chocolat </figcaption>
 </figure>
 
