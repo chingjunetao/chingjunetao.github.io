@@ -19,9 +19,9 @@ Their best-selling mille crepe cake is still top draw at the Singapore outlet. B
   <figcaption>Gateau Au Chocolat </figcaption>
 </figure>
 
-Price &emsp: S$9.50 per slice (2017) <br/> 
+Price &nbsp: S$9.50 per slice (2017) <br/> 
 Chocolate : :chocolate_bar::chocolate_bar::chocolate_bar::chocolate_bar: <br/>
-Sweetness : :candy::candy::candy: <br/><br/>
+Sweetness : :candy::candy::candy: <br/>
 
 Gateau Au Chocolat has a good chocolate flavour and it is not that sweet because of its dark chocolate ganache. Its alternating layers of dark chocolate sponge cake and chocolate mousse provide smooth and silky texture. Overall, it is very satisfying! <br/>
 
@@ -30,10 +30,10 @@ Gateau Au Chocolat has a good chocolate flavour and it is not that sweet because
   <figcaption>Signature Mille Crepes </figcaption>
 </figure>
 
-Price &emsp: S$9.50 per slice (2017) <br/>
-Sweetness : :candy::candy: <br/><br/>
+Price &emsp;: S$9.50 per slice (2017) <br/>
+Sweetness : :candy::candy: <br/>
 
-Its Signature Mille Crepes lives up to the fame. Twenty paper-thin crepes layered with ethereal ight pastry cream provides a unique texture. This is a must try for every cake lover! <br/>
+Its Signature Mille Crepes lives up to the fame. Twenty paper-thin crepes layered with ethereal ight pastry cream provides a unique texture. This is a must try for every cake lover! <br/><br/>
 
 
 
