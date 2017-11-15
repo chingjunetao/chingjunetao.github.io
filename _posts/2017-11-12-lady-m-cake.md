@@ -26,7 +26,7 @@ Gateau Au Chocolat has a good chocolate flavour and it is not that sweet because
 
 
 {% capture fig_img2 %}
-![Foo]({{ "/assets/images/post/2017-11-12-lady-m-cake/signature.jpg" | absolute_url }})
+![Signature]({{ site.url }}{{ site.baseurl }}/assets/images/post/2017-11-12-lady-m-cake/signature.jpg)
 {% endcapture %}
 
 <figure>
