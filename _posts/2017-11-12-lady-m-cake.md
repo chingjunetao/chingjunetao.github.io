@@ -13,12 +13,8 @@ tags:
 [Lady M Confections](http://www.ladym.com.sg/) was the brand that started the popular mille crepe cake craze back in 2005. Singapore was one of the countries that Lady M expands out of New York. I managed to try it out in Westgate, Jurong East. 
 Their best-selling mille crepe cake is still top draw at the Singapore outlet. But as a chocoholic, chocolate cake is always the first thing I try in a cafe :yum::yum:
 
-{% capture fig_img %}
-![Foo]({{ "/assets/images/post/2017-11-12-lady-m-cake/chocolate.jpg" | absolute_url }})
-{% endcapture %}
-
 <figure>
-  {{ fig_img | markdownify | remove: "<p>" | remove: "</p>" }}
+  <img src="/assets/images/post/2017-11-12-lady-m-cake/chocolate.jpg">
   <figcaption>Gateau Au Chocolat </figcaption>
 </figure>
 
