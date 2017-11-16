@@ -1,12 +1,12 @@
 ---
-title: "Lady M Confections "
+title: "Burger and Lobster Malaysia"
 categories:
   - food
 tags:
-  - lady m
-  - chocolate
-  - cake
-  - dessert
+  - burger
+  - lobster
+  - malaysia
+  - seafood
   - review
 ---
 
