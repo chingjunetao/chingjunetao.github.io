@@ -7,6 +7,7 @@ tags:
   - chocolate
   - cake
   - dessert
+  - singapore
   - review
 ---
 
@@ -33,7 +34,7 @@ Gateau Au Chocolat has a good chocolate flavour and it is not that sweet because
 Price &emsp;&emsp;&nbsp;: S$9.50 per slice (2017) <br/>
 Sweetness : :candy::candy: <br/>
 
-Its Signature Mille Crepes lives up to the fame. Twenty paper-thin crepes layered with ethereal ight pastry cream provides a unique texture. This is a must try for every cake lover! <br/><br/>
+Its Signature Mille Crepes lives up to the fame. Twenty paper-thin crepes layered with ethereal light pastry cream provides a unique texture. This is a must try for every cake lover! <br/><br/>
 
 
 
