@@ -20,7 +20,7 @@ Before learning SQL, you should study the basic concept of relational database m
 
 - [Relational Database Management System Concepts](https://www.tutorialspoint.com/sql/sql-rdbms-concepts.htm) 
 
-- [Mode Analytics SQL Tutorial](https://community.modeanalytics.com/sql/tutorial/introduction-to-sql/)(This is my most favourite site to learn SQL because you don't have to setup database in your pc, you can run the query to access the database online.)
+- [Mode Analytics SQL Tutorial](https://community.modeanalytics.com/sql/tutorial/introduction-to-sql/) (This is my most favourite site to learn SQL because you don't have to setup database in your pc, you can run the query to access the database online.)
 
 - [w3schools SQL Tutorial](https://www.w3schools.com/sql/)
 
