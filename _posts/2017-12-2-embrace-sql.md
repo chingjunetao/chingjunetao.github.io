@@ -11,9 +11,9 @@ There was a time that I was afraid of SQL. I have no idea why I was afraid of it
 
 During my internship, I was asked to write SQL query to visualize the data. At that moment I knew that I can't escape from database if I choose data science as my career path. So, I changed my mindset and picked up SQL again, and I realized that SQL is not that hard. Even you do not have a programming background, you shouldn't be afraid of SQL because SQL is logical and intuitive. Most of the time, writing SQL query is easier than doing the same operation in Excel. 
 
-Today I am going to share few of my favourtie sites to learn SQL. 
+Today I am going to share my favourtie sites to learn SQL. 
 
-*What is SQL?*
+**What is SQL?**<br/>
 [SQL](https://en.wikipedia.org/wiki/SQL) (Structured Query Language) is a domain-specific language used in programming and designed for managing data held in a relational database management system (RDBMS). In another words, SQL is the language you use to interact with a database. 
 
 Before learning SQL, you should study the basic concept of relational database management system (RDBMS). You should at least know what is a primary key and foreign key. These concepts are important to design and handle a database. 
