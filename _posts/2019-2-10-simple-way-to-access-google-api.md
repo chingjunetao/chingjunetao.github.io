@@ -32,5 +32,8 @@ Go to **“Select a project”** and click the **“New Project”** to create a
 
 
 <figure>
-<a href="/assets/images/post/2019-2-10-simple-way-to-access-google-api/google-api-1.PNG"><img src="/assets/images/post/2019-2-10-simple-way-to-access-google-api/google-api-1.PNG"></a>
+  <a href="/assets/images/post/2019-2-10-simple-way-to-access-google-api/google-api-1.PNG"><img src="/assets/images/post/2019-2-10-simple-way-to-access-google-api/google-api-1.PNG"></a>
+  <figcaption></figcaption>
 </figure>
+
+Go to *“Select a project”* and click the *“New Project”* to create a new project.
