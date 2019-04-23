@@ -1,6 +1,6 @@
 ---
 header:
-  header: /assets/images/post/2017-12-2-embrace-sql/header-photo.jpg
+  image: /assets/images/post/2017-12-2-embrace-sql/header-photo.jpg
   teaser: /assets/images/post/2017-12-2-embrace-sql/teaser-photo.jpg
 title: "Don't be afraid, embrace SQL!"
 categories:
