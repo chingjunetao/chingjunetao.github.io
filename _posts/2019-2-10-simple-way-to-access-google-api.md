@@ -1,6 +1,5 @@
 ---
 header:
-  image: /assets/images/post/2019-2-10-simple-way-to-access-google-api/cover-photo.png
   teaser: /assets/images/post/2019-2-10-simple-way-to-access-google-api/cover-photo.png
 title: "Simple way to access to Google Service API"
 categories:
