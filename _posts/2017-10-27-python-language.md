@@ -1,5 +1,6 @@
 ---
 header:
+  image:  /assets/images/post/2017-10-25-python-programming/header-photo.jpg
   teaser: /assets/images/post/2017-12-2-embrace-sql/teaser-photo.jpg
 title: "How to Enhance your Python Programming Skill"
 categories:
