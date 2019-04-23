@@ -25,5 +25,7 @@ Before starting to use any Google Service API, you need to create a project in [
 
 ### 1. Create a new project
 
+<figure>
 <img src="/assets/images/post/2019-2-10-simple-way-to-access-google-apigoogle-api-1.PNG">
+</figure>
 Go to **“Select a project”** and click the **“New Project”** to create a new project.
