@@ -28,12 +28,71 @@ Before starting to use any Google Service API, you need to create a project in [
 <figure>
 <img src="{{ site.url }}{{ site.baseurl }}/assets/images/post/2019-2-10-simple-way-to-access-google-api/google-api-1.PNG"  alt="">
 </figure>
-Go to **“Select a project”** and click the **“New Project”** to create a new project.
-
+Go to *“Select a project”* and click the *“New Project”* to create a new project.
 
 <figure>
-  <a href="/assets/images/post/2019-2-10-simple-way-to-access-google-api/google-api-1.PNG"><img src="/assets/images/post/2019-2-10-simple-way-to-access-google-api/google-api-1.PNG"></a>
-  <figcaption></figcaption>
+<img src="{{ site.url }}{{ site.baseurl }}/assets/images/post/2019-2-10-simple-way-to-access-google-api/google-api-2.PNG"  alt="">
+</figure>
+Give your project a name. It doesn’t matter if you do not have an organisation. You will be redirected to your project dashboard after creating the project.
+
+
+### 2. Enable Service API
+
+<figure>
+<img src="{{ site.url }}{{ site.baseurl }}/assets/images/post/2019-2-10-simple-way-to-access-google-api/google-api-3.PNG"  alt="">
+</figure>
+Go to the hamburger menu and click the *“Library”* in *“APIs & Services”*.
+
+<figure>
+<img src="{{ site.url }}{{ site.baseurl }}/assets/images/post/2019-2-10-simple-way-to-access-google-api/google-api-4.PNG"  alt="">
+</figure>
+Search for the API you want to activate. At this case, let’s try Google Drive API.
+
+<figure>
+<img src="{{ site.url }}{{ site.baseurl }}/assets/images/post/2019-2-10-simple-way-to-access-google-api/google-api-5.PNG"  alt="">
+</figure>
+Click *“Enable”* to enable the Google Drive API.
+
+<figure>
+<img src="{{ site.url }}{{ site.baseurl }}/assets/images/post/2019-2-10-simple-way-to-access-google-api/google-api-6.PNG"  alt="">
+</figure>
+As you can see, we need to create **credentials** to use the API.
+
+
+### 3. Create Client ID credential
+
+<figure>
+<img src="{{ site.url }}{{ site.baseurl }}/assets/images/post/2019-2-10-simple-way-to-access-google-api/google-api-7.PNG"  alt="">
+</figure>
+At this case, we will choose the *“client ID”* as we already know what we want to do.
+
+<figure>
+<img src="{{ site.url }}{{ site.baseurl }}/assets/images/post/2019-2-10-simple-way-to-access-google-api/google-api-8.PNG"  alt="">
+</figure>
+Sometime you will get into this page. You will need to configure a consent name before proceeding.
+
+<figure>
+<img src="{{ site.url }}{{ site.baseurl }}/assets/images/post/2019-2-10-simple-way-to-access-google-api/google-api-9.PNG"  alt="">
 </figure>
 
-Go to *“Select a project”* and click the *“New Project”* to create a new project.
+**_Hint: Do not use “Google” in your Application name._**
+
+As long as your application name doesn’t contain “Google” or other sensitive word, it will be passed.
+
+
+### 4. Download the JSON file
+
+<figure>
+<img src="{{ site.url }}{{ site.baseurl }}/assets/images/post/2019-2-10-simple-way-to-access-google-api/google-api-10.PNG"  alt="">
+</figure>
+Select application type based on your use case. Select “other” if you are going to use the credential in your script.
+
+<figure>
+<img src="{{ site.url }}{{ site.baseurl }}/assets/images/post/2019-2-10-simple-way-to-access-google-api/google-api-11.PNG"  alt="">
+</figure>
+Download the JSON file and you are ready to go!
+
+
+That’s all how you get the JSON file to access your Google Service. I will write another article on how to manage your files on Google Drive by using Python and this JSON file.
+
+Cheers!
