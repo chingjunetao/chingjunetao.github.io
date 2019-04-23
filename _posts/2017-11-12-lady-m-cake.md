@@ -1,4 +1,6 @@
 ---
+header:
+  teaser: /assets/images/post/2017-11-12-lady-m-cake/ChocolateCake.jpg
 title: "Lady M Confections "
 categories:
   - food
@@ -20,7 +22,7 @@ Their best-selling mille crepe cake is still top draw at the Singapore outlet. B
   <figcaption>Gateau Au Chocolat </figcaption>
 </figure>
 
-Price &emsp;&emsp;&nbsp;: S$9.50 per slice (2017) <br/> 
+Price &emsp;&emsp;&nbsp;: S$9.50 per slice (2017) <br/>
 Chocolate : :chocolate_bar::chocolate_bar::chocolate_bar::chocolate_bar: <br/>
 Sweetness : :candy::candy::candy: <br/>
 
@@ -41,10 +43,4 @@ Its Signature Mille Crepes lives up to the fame. Twenty paper-thin crepes layere
 
 **Verdict** <br/>
 Overall : :heart::heart::heart::heart:  <br/>
-I definitely will go back to try out other cakes especially the checker board chocolate cake and green tea mille creeps. 
-
-
-
-
-
-
+I definitely will go back to try out other cakes especially the checker board chocolate cake and green tea mille creeps.
