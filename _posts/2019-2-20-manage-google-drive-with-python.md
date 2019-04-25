@@ -20,7 +20,7 @@ Fortunately, Google provides API for most of its service. We are going to use [G
 
 ## Using Google Drive API
 
-Before going into coding, you should get Google Drive API access ready. I have wrote an [article](https://chingjunetao.github.io//learning/simple-way-to-access-google-api/) on how to get your Google Service Access through Client ID. You should be able to get JSON file that contain the secret key to access your Google Drive.
+Before going into coding, you should get Google Drive API access ready. I have wrote an [article](https://chingjunetao.github.io//learning/simple-way-to-access-google-api/) on how to get your **Google Service Access through Client ID**. You should be able to get JSON file that contain the secret key to access your Google Drive.
 
 
 ## Getting Started with PyDrive
@@ -28,9 +28,7 @@ Before going into coding, you should get Google Drive API access ready. I have w
 ### Installing PyDrive
 We will use the python package manager to install PyDrive
 
-```
-pip install pydrive
-```
+`pip install pydrive`
 
 ### Connecting to Google Drive
 PyDrive has made the authentication very easy with just 2 lines of code.
@@ -80,7 +78,6 @@ Line 1 to line 4 will get you the list of files/folders in your Google Drive. It
 ### Accessing files in folders
 
 ```python
-
 fileList = drive.ListFile({'q': "'2mavWSQhVfr7GnX2JHa45Qd43bTaYCHXE' in parents and trashed=false"}).GetList()
 for file in fileList:
   print('Title: %s, ID: %s' % (file['title'], file['id']))
