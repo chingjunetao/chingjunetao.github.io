@@ -1,7 +1,7 @@
 ---
 header:
   image: /assets/images/post/2019-2-20-manage-google-drive-with-python/cover-photo.jpg
-  teaser: /assets/images/post/2019-2-20-manage-google-drive-with-python/cover-photo.jpg
+  teaser: /assets/images/post/2019-2-20-manage-google-drive-with-python/teaser-photo.jpg
 title: "How to manage files in Google Drive with Python"
 categories:
   - learning
