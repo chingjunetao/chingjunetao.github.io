@@ -1,6 +1,6 @@
 ---
 header:
-  teaser: /assets/images/post/2019-2-10-simple-way-to-access-google-api/teaser-photo.png
+  teaser: /assets/images/post/2019-2-10-simple-way-to-access-google-api/teaser-photo.jpg
 title: "Simple way to access to Google Service API"
 categories:
   - learning
